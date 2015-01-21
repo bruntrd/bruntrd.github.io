@@ -1,0 +1,71 @@
+
+.header {
+	background-color:F0FFFF;
+	border-left:270px;
+	border-right:270px;
+	margin-right:270px;
+	margin-left:270px;
+}
+
+.header h1{
+	font-size: 40px;  
+ }
+
+
+.profile {
+	background-color:#F5F5DC;
+	border-left:270px;
+	border-right:270px;
+	margin-right:270px;
+	margin-left:270px;
+}
+
+.profile p{
+	font-style:italic;
+	margin-bottom:0px;
+}
+
+.education {	
+	background-color:F0FFFF;
+	border-left:270px;
+	border-right:270px;
+	margin-right:270px;
+	margin-left:270px;
+}
+
+.school p{
+	margin-bottom:0px;
+}
+
+.degree p{
+	font-style: italic;
+}
+
+
+.experience {
+	background-color:#F5F5DC;
+	border-left:270px;
+	border-right:270px;
+	margin-right:270px;
+	margin-left:270px;
+}
+.experience p{
+	margin-bottom:0px;
+}
+
+.skills {
+	background-color:F0FFFF;
+	border-left:270px;
+	border-right:270px;
+	margin-right:270px;
+	margin-left:270px;
+
+}
+.skills ul{
+	margin-bottom:80px;
+	font-size:14px;
+}
+.skills li{
+	margin-bottom:5px;
+}
+
